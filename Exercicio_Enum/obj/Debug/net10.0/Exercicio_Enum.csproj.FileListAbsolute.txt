@@ -1,0 +1,14 @@
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\bin\Debug\net10.0\Exercicio_Enum.exe
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\bin\Debug\net10.0\Exercicio_Enum.deps.json
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\bin\Debug\net10.0\Exercicio_Enum.runtimeconfig.json
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\bin\Debug\net10.0\Exercicio_Enum.dll
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\bin\Debug\net10.0\Exercicio_Enum.pdb
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\obj\Debug\net10.0\Exercicio_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\obj\Debug\net10.0\Exercicio_Enum.AssemblyInfoInputs.cache
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\obj\Debug\net10.0\Exercicio_Enum.AssemblyInfo.cs
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\obj\Debug\net10.0\Exercicio_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\obj\Debug\net10.0\Exercicio_Enum.dll
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\obj\Debug\net10.0\refint\Exercicio_Enum.dll
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\obj\Debug\net10.0\Exercicio_Enum.pdb
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\obj\Debug\net10.0\Exercicio_Enum.genruntimeconfig.cache
+C:\Users\Nícolas Valentim\Documents\Rider\Exercicio_Enum\Exercicio_Enum\obj\Debug\net10.0\ref\Exercicio_Enum.dll
